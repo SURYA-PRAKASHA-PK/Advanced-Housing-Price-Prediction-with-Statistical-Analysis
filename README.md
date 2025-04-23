@@ -1,5 +1,8 @@
 # Advanced Housing Price Prediction with Statistical Analysis
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## Project Overview
 This project implements a comprehensive housing price prediction system using advanced statistical analysis techniques. The system incorporates multiple regression models, feature engineering, and thorough model diagnostics to provide accurate price predictions and insights into housing market dynamics.
 
